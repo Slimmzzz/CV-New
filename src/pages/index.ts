@@ -1,0 +1,6 @@
+export * from './DescriptionPage'
+export * from './EducationPage'
+export * from './MainPage'
+export * from './PortfolioPage'
+export * from './SkillsPage'
+export * from './WorkExperiencePage'
