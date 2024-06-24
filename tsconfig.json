@@ -17,6 +17,6 @@
     "forceConsistentCasingInFileNames": true /* Disallow inconsistently-cased references to the same file. */,
     "noImplicitAny": true,
   },
-  "include": ["src", "App.tsx"],
+  "include": ["src", "src/App.tsx"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
